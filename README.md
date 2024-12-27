@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **The Flying BookstoreWeb App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **ReactJs, React Native, Android , MEARN**
 
