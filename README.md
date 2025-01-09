@@ -65,3 +65,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duynguyen-workspace&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen-workspace&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📚 My Projects
+
+### [The Flying Bookstore](https://github.com/hoa-nguyen-bk/the_flying_bookstore_front_end)
+
+An E-commerce System for buying and renting affordable used books 
+|Title | Stars | Watchers | Technologies|
+|--|--|--|--|
+[The Flying Bookstore](https://github.com/hoa-nguyen-bk/the_flying_bookstore_front_end) | <img alt="Stars" src="https://img.shields.io/github/stars/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
+
