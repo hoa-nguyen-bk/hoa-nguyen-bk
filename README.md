@@ -73,7 +73,7 @@
 An E-commerce System for buying and renting affordable used books 
 |Title | Stars | Watchers | Technologies|
 |--|--|--|--|
-[The Flying Bookstore](https://github.com/hoa-nguyen-bk/the_flying_bookstore_front_end) | <img alt="Stars" src="https://img.shields.io/github/stars/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+[The Flying Bookstore](https://github.com/hoa-nguyen-bk/the_flying_bookstore_front_end) | <img alt="Stars" src="https://img.shields.io/github/stars/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/hoa-nguyen-bk/the_flying_bookstore_front_end?style=flat-square&labelColor=black"/> | ReactJs
 
 
 
